@@ -1,0 +1,8 @@
+-> Here are a list of ideas for this mod, base content wise:
+
+> Vanilla stuff:
+1. Mayo: made with 3 eggs with shapeless crafting. Provides 4 hunger and and 1 saturation.
+
+> Create stuff:
+1. Compat with Malum that allows you to drain the saps and syrups in a drain. The sap can be cooked by a mixer and heated basin to become sap, then can be reinserted into the bottle.
+2. Follow up to #1, ability to put syrup on bread (any type) to make (Holy/Unholy) Sticky Buns.
