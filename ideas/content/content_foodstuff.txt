@@ -6,3 +6,11 @@
 > Create stuff:
 1. Compat with Malum that allows you to drain the saps and syrups in a drain. The sap can be cooked by a mixer and heated basin to become sap, then can be reinserted into the bottle.
 2. Follow up to #1, ability to put syrup on bread (any type) to make (Holy/Unholy) Sticky Buns.
+
+> Biomes o' Plenty stuff:
+1. Ability to cultivate barley and oats by crafting the original item (Barley and Sea Oats) into seeds (Barley Kernels and Oats). These seeds can be planted into the ground to make their cultivated variety (Cultivated Barley and Cultivated Oats). These will have the tag of '#forge:grain' (+ Other additional tags for further compat).
+2. Follow up to #1; ability to turn 'Barley Kernels' and 'Oats' into 'Barley Loaf' and 'Oat Cake', which would be bread varients of those grains and would have the tag of '#forge:bread' (+ Other additional tags for further compat).
+3. Another follow up to #1+2; compat with Create that would allow the ability to grind the grains into respective flour and dough, with the tags of '#forge:flour' and '#forge:dough' respectively (+ Other additional tags for further compat).
+
+> Farmer's Delight (+Addons) stuff:
+1. Compat with Create to change the 'Wheat Dough' to 'Rustic Dough', and the ability to turn any dough into pasta.
