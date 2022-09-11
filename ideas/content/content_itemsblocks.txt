@@ -1,0 +1,7 @@
+Items and whatnot.
+
+> Vanilla Stuff:
+1. Obsidian bricks, pretty self-explanatory.
+2. Plates, forks, spoons. (I’ll explain the function of them later)
+3. Pantry. It would be able to store a large amount of food items and foodstuffs.
+4. ‘Special Lute’; a minor little instrument that is pretty fun! Made from basic materials (‘#forge:string’, ‘#forge:planks’, ‘Iron Nuggets’). Akin to the ‘Flute’ from Supplementaries. Would give nearby pets the ‘Strength’ buff. It is a lute.
