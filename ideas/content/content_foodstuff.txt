@@ -20,7 +20,7 @@
 
 > Farmer's Delight (+Addons) stuff:
 1. Ability to make 'Coleslaw' using ‘Cabbage’, ‘Carrots’, and ‘Mayo’ (+a 'Bowl') in shapeless crafting.
-2. Ability to make a ‘Southern Burger’ by shapeless crafting a ‘Cooked Beef Patty’, ‘Coleslaw’, and ‘Cooked Bacon’.
+2. Ability to make a ‘Southern Burger’ by shapeless crafting a ‘Cooked Beef Patty’, ‘Coleslaw’, 'Bread', and ‘Cooked Bacon’.
 3. Compat with Supplementaries to make ‘Flaxseed Bites’ out of ‘Flax Seeds’, ‘Sugar’, ‘Water Bottle’, and ‘Wheat’ (in a Cooking Pot, makes 3); which would be a pretty average food item; it would provide 3 hunger, 2 saturation, and 5 seconds of the Resistance buff with 15 seconds of the Comfort buff.
 
 > Neapolitan stuff:
