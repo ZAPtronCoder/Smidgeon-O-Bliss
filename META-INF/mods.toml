@@ -3,7 +3,7 @@ loaderVersion="43"
 license="ARR"
 [[mods]]
 modId="sob"
-version="0.0.1"
+version="0.0.2"
 displayName="Smidgeon O' Bliss"
 description='''
 Food compat. As simple as that.

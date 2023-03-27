@@ -32,7 +32,7 @@
     },
     {
       "type": "forge:not",
-      "values": {
+      "value": {
         "type": "forge:tag_empty",
         "tag": "forge:dough/wheat"
       }
