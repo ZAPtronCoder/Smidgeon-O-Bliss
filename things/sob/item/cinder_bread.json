@@ -1,0 +1,9 @@
+{
+    "type": "plain",
+    "max_stack_size": 64,
+    "food": "sob:cinder_bread",
+    "group": "food",
+    "conditions": [
+      { "type":"mod_loaded", "modid": "create" }
+    ]
+  }

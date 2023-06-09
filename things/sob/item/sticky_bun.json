@@ -1,0 +1,9 @@
+{
+  "type": "plain",
+  "max_stack_size": 64,
+  "food": "sob:sticky_bun",
+  "group": "food",
+  "conditions": [
+    { "type":"mod_loaded", "modid": "create" }
+  ]
+}

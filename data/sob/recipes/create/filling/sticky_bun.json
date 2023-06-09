@@ -1,0 +1,12 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+      {"item": "minecraft:bread"},
+      {"fluidTag": "forge:honey","amount": 250}
+    ],
+    "results": [{"item": "sob:sticky_bun"}],
+    "conditions": [{
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }]
+  }

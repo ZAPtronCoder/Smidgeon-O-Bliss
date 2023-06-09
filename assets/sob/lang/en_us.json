@@ -1,0 +1,17 @@
+{
+    "item.sob.cinder_dough": "Cinder Dough",
+    "item.sob.cinder_bread": "Cinder Bread",
+    "item.sob.caldera_roll": "Caldera Roll",
+    "item.sob.sticky_bun": "Sticky Bun",
+    "item.sob.holy_sticky_bun": "Holy Sticky Bun",
+    "item.sob.unholy_sticky_bun": "Unholy Sticky Bun",
+    "item.sob.holy_sap_bucket": "Holy Sap Bucket",
+    "item.sob.unholy_sap_bucket": "Unholy Sap Bucket",
+    "item.sob.holy_syrup_bucket": "Holy Syrup Bucket",
+    "item.sob.unholy_syrup_bucket": "Unholy Syrup Bucket",
+
+    "fluid.sob.holy_sap": "Holy Sap",
+    "fluid.sob.unholy_sap": "Unholy Sap",
+    "fluid.sob.holy_syrup": "Holy Syrup",
+    "fluid.sob.unholy_syrup": "Unholy Syrup"
+}

@@ -3,8 +3,14 @@ loaderVersion="43"
 license="ARR"
 [[mods]]
 modId="sob"
-version="0.0.2"
+version="1.0"
 displayName="Smidgeon O' Bliss"
 description='''
 Food compat. As simple as that.
 '''
+[[dependencies.sob]]
+    modId = "jsonthings"
+    mandatory = true
+    versionRange = "[0.4.9,)"
+    ordering = "NONE"
+    side = "BOTH"

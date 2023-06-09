@@ -1,0 +1,9 @@
+{
+    "type": "plain",
+    "max_stack_size": 64,
+    "food": "sob:caldera_roll",
+    "group": "food",
+    "conditions": [
+      { "type":"mod_loaded", "modid": "create" }
+    ]
+  }
